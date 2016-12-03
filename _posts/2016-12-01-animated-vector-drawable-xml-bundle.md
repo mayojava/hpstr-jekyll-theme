@@ -12,7 +12,7 @@ Creating AnimatedVectorDrawables on Android requires you to create three xml res
 The `<objectAnimator />` defines the animation to  apply to different parts of the vector and the `<animated-vector />`
 is used to link the vector drawable and the animation together.
 
-As an example, to create an animated vector drawable that transforms a play icon to stop icon, the following xml files will be created.
+As an example, to create an animated vector drawable that transforms a play icon to stop icon, the following xml files will be created. The Vector drawable:
 
 <!-- more -->
 
